@@ -90,14 +90,20 @@ img {
 }
 
 /* Mobile */
-@media (max-width: 768px) {
+@media (max-width: 392px) {
 
   img {
     width: 100%;
     padding: 10px;
   }
 
-  .start,
+  .start {
+    width: 100%;
+    padding: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+
   .managed-component {
     width: 100%;
     padding: 80px;
