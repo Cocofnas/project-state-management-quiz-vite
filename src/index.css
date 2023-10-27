@@ -35,9 +35,9 @@ img {
 
 .start button {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(228, 239, 255);
+  background-color: #d7f2fb;
   color: #0b24f5;
-  border: 1px solid #0b24f5;
+  border: 1px dotted #0b24f5;
   border-radius: 15px;
   padding: 10px 20px;
   font-size: 26px;
